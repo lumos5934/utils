@@ -4,7 +4,7 @@ using Debug = UnityEngine.Debug;
 
 namespace LLib.Utils
 {
-    public static class DebugUtil
+    public static class DebugUtils
     {
         private const string Prefix = "[ Editor ] ";
 

@@ -1,6 +1,6 @@
 namespace LLib.Utils
 {
-    public static class BitUtil
+    public static class BitUtils
     {
         /// <summary>
         /// 해당 비트가 포함되어 있는지 확인합니다.
