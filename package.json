@@ -1,0 +1,11 @@
+{
+  "name": "com.llib.utils",
+  "version": "1.0.0",
+  "displayName": "Utils",
+  "description": "범용 유틸리티 함수 모음입니다.",
+  "unity": "2022.3",
+  "author": {
+    "name": "LUMOS",
+    "email": "lumos5934@gmail.com"
+  }
+}
