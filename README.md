@@ -1,5 +1,5 @@
 # Utils
-범용 유틸리티 함수 모음입니다. <br>
+Bit, Debug, Coroutine에 대한 유틸리티 함수 모음입니다. <br>
 
 <br>
 <br>
